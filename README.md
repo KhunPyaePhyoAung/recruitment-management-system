@@ -1,4 +1,5 @@
 # Recruitment Management System
+## Spring Boot, Thymeleaf, MySQL
 
 ### Code Contributors
 <div>
